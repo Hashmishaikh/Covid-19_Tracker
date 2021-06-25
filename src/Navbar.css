@@ -1,0 +1,23 @@
+/* *{
+    color: white;
+} */
+
+nav {
+    margin: 14px;
+    padding: 10px;
+    color: white;
+    background-color: #333;
+
+}
+.ind {
+    margin-right: 70px;
+    color: white;
+    font-size: large;
+    text-decoration: none;
+}
+.sta {
+    margin-right: 14px;
+    color: white;
+    font-size: large;
+    text-decoration: none;
+}
